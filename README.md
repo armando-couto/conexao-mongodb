@@ -1,2 +1,2 @@
 # conexao-mongodb
-Conexao com o MongoDB e Golang.
+Utilizando um pool de conexões no MongoDB.
